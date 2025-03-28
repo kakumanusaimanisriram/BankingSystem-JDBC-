@@ -24,15 +24,7 @@ Customer - create account / Login / view balance / deposit / withdraw / transfer
 
 
 
-## Usage
-Try out the application by following the below steps.
->**Step 1** : clone the repository using https://github.com/bhavyasri84/BankingSystem-JDBC.git
 
-> **Step 2** :  create database banksystem
-
->**Step 3** : create 3 tables admin,bank and customer with the fields specified in the pojos.
-
->**Step 4** : In config.properties edit mysql credentials accordingly.
 
 >
 
